@@ -1,12 +1,11 @@
 {
- "version": "5.2.0",
- "publicado": "2026-11-23T16:38:55.943Z",
+ "version": "5.2.1",
+ "publicado": "2026-11-23T23:59:27.879Z",
  "notas": [
-  "Tablero nuevo: centro de mando con filtros por impuesto y vigencia, plan de actuaciones, semáforo de términos, mapa de cumplimiento, recaudo mensual y agenda de casos",
-  "Actualización automática: las mejoras llegan solas al abrir SIFT con internet",
-  "Configuración: traer usuarios de un archivo SIFT anterior con sus contraseñas"
+  "Prueba de actualización remota: el tablero muestra la versión en uso junto al reloj",
+  "Aviso de novedades al recibir una versión nueva"
  ],
- "carga": "carga-5.2.0.txt",
- "sha256": "d379a3fc965f98c66f3303067034b94c08d7a44252776baf4306d4b464b53738",
+ "carga": "carga-5.2.1.txt",
+ "sha256": "fd1bd93c0649a44d24f2eab0bd4ab7c95d2b89ecd47ae2bc3a3f64691b1873ef",
  "parametros": null
 }
