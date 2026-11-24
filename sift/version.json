@@ -1,12 +1,10 @@
 {
- "version": "5.4.0",
- "publicado": "2026-11-24T03:25:06.006Z",
+ "version": "5.4.1",
+ "publicado": "2026-11-24T04:49:48.841Z",
  "notas": [
-  "Auditoría: las declaraciones de ICA presentadas en cero que aparecen solo en el recaudo ya no salen como 'No presentó', sino como 'ICA en cero'",
-  "Régimen SIMPLE y ReteICA sin declarar después del último registro (sin marca de agente) pasan a 'Por verificar'; la tasa de cumplimiento no cuenta los casos por verificar",
-  "Recaudo 2020: se suman los pagos de ReteICA de la vigencia 2019; firmeza del 29 de febrero corregida"
+  "Vencimientos: cuando el plazo cae en festivo (1 de mayo, Ascensión, Independencia de Cartagena…) pasa al siguiente día hábil. Se eliminan 294 sanciones de menos que se marcaban por un día de retraso inexistente"
  ],
- "carga": "carga-5.4.0.txt",
- "sha256": "0dc19500bc6280b62a7c130ee5dfa02da26a84f40b57997109607e6d24670f63",
+ "carga": "carga-5.4.1.txt",
+ "sha256": "ddf0d1e705bb4595284ce00cc28c509ece198d9ebd8ab11cb1ee3bd7f7fa4e28",
  "parametros": null
 }
