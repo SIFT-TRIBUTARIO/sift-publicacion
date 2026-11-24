@@ -1,11 +1,13 @@
 {
- "version": "5.2.1",
- "publicado": "2026-11-23T23:59:27.879Z",
+ "version": "5.3.0",
+ "publicado": "2026-11-24T02:07:06.020Z",
  "notas": [
-  "Prueba de actualización remota: el tablero muestra la versión en uso junto al reloj",
-  "Aviso de novedades al recibir una versión nueva"
+  "Control de actuaciones: al descargar la base para correspondencia queda registrado el envío con número de control",
+  "Expedientes en el archivo: notificación, vencimiento del término en días hábiles, respuesta, cierre y siguiente etapa (sanción por no declarar, aforo, requerimiento especial, mandamiento de pago…)",
+  "La ruta de cada contribuyente cambia según su etapa: 'En trámite' mientras corre el término y 'Siguiente etapa' cuando vence sin respuesta",
+  "Compartir entre funcionarios: 'Guardar mi control (Excel)' y cargar los de los demás junto con las bases de SINFA"
  ],
- "carga": "carga-5.2.1.txt",
- "sha256": "fd1bd93c0649a44d24f2eab0bd4ab7c95d2b89ecd47ae2bc3a3f64691b1873ef",
+ "carga": "carga-5.3.0.txt",
+ "sha256": "e8bcc5a9f0ad342c080594dc63dd7d8be49e3321e9417d5fedb88fda4b3f91b3",
  "parametros": null
 }
