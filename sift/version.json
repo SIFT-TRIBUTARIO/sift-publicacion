@@ -1,10 +1,10 @@
 {
- "version": "5.4.1",
- "publicado": "2026-11-24T04:49:48.841Z",
+ "version": "5.4.2",
+ "publicado": "2026-11-24T04:57:02.968Z",
  "notas": [
-  "Vencimientos: cuando el plazo cae en festivo (1 de mayo, Ascensión, Independencia de Cartagena…) pasa al siguiente día hábil. Se eliminan 294 sanciones de menos que se marcaban por un día de retraso inexistente"
+  "Tasa de interés moratorio de noviembre de 2026 (26,34 %) incluida en la tabla: los intereses a hoy ya la usan en todos los equipos"
  ],
- "carga": "carga-5.4.1.txt",
- "sha256": "ddf0d1e705bb4595284ce00cc28c509ece198d9ebd8ab11cb1ee3bd7f7fa4e28",
+ "carga": "carga-5.4.2.txt",
+ "sha256": "62b42f48d8fe01c9d283578cb2e366a44b4bfad306cfb64136ae203c5210cc4a",
  "parametros": null
 }
