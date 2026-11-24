@@ -1,13 +1,10 @@
 {
- "version": "5.3.0",
- "publicado": "2026-11-24T02:07:06.020Z",
+ "version": "5.3.1",
+ "publicado": "2026-11-24T02:39:52.356Z",
  "notas": [
-  "Control de actuaciones: al descargar la base para correspondencia queda registrado el envío con número de control",
-  "Expedientes en el archivo: notificación, vencimiento del término en días hábiles, respuesta, cierre y siguiente etapa (sanción por no declarar, aforo, requerimiento especial, mandamiento de pago…)",
-  "La ruta de cada contribuyente cambia según su etapa: 'En trámite' mientras corre el término y 'Siguiente etapa' cuando vence sin respuesta",
-  "Compartir entre funcionarios: 'Guardar mi control (Excel)' y cargar los de los demás junto con las bases de SINFA"
+  "Eliminar registros de prueba (solo superadministrador): uno por uno desde el expediente o todos con 'Borrar pruebas'. A diferencia de anular, no quedan en Expedientes"
  ],
- "carga": "carga-5.3.0.txt",
- "sha256": "e8bcc5a9f0ad342c080594dc63dd7d8be49e3321e9417d5fedb88fda4b3f91b3",
+ "carga": "carga-5.3.1.txt",
+ "sha256": "e0588ce13adaa1eaa4cc085eabbf23f9f8935bb9c5e9e2b408311d4b8bf01419",
  "parametros": null
 }
