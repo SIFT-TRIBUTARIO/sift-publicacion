@@ -1,10 +1,12 @@
 {
- "version": "5.3.1",
- "publicado": "2026-11-24T02:39:52.356Z",
+ "version": "5.4.0",
+ "publicado": "2026-11-24T03:25:06.006Z",
  "notas": [
-  "Eliminar registros de prueba (solo superadministrador): uno por uno desde el expediente o todos con 'Borrar pruebas'. A diferencia de anular, no quedan en Expedientes"
+  "Auditoría: las declaraciones de ICA presentadas en cero que aparecen solo en el recaudo ya no salen como 'No presentó', sino como 'ICA en cero'",
+  "Régimen SIMPLE y ReteICA sin declarar después del último registro (sin marca de agente) pasan a 'Por verificar'; la tasa de cumplimiento no cuenta los casos por verificar",
+  "Recaudo 2020: se suman los pagos de ReteICA de la vigencia 2019; firmeza del 29 de febrero corregida"
  ],
- "carga": "carga-5.3.1.txt",
- "sha256": "e0588ce13adaa1eaa4cc085eabbf23f9f8935bb9c5e9e2b408311d4b8bf01419",
+ "carga": "carga-5.4.0.txt",
+ "sha256": "0dc19500bc6280b62a7c130ee5dfa02da26a84f40b57997109607e6d24670f63",
  "parametros": null
 }
